@@ -1,5 +1,11 @@
 123
 5555
+<<<<<<< .mine
 yyyytat
 wwwwwwwwwwwwwwwww
 9999
+=======
+yyyy
+wwwwwwwwwwwwwwwwwtttt
+adfadfasdf
+>>>>>>> .theirs
